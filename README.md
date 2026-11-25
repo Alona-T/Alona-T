@@ -1,18 +1,5 @@
-### Hi there 👋
-### I am Alona, Awesome QA Automation Engineer!
+### Hi there 👋 I'm Alona, SDET / Senior QA Engineer / Lead QA
 
-- 🔭 I’m currently working on **Mobile Automation** (Native) using WebdriverIO/Mocha 
-- 💬 I was working with different languages and frameworks such as:
-  * **Appium/Capybara/Ruby**
-  * **WebdriverIO/Mocha** for web
-  * **Supertest/mocha/chai** to test APIs
-  * **Java/Selenium** (of course - everyone used it at least once in their life :) )
-- 🌱 I’m currently learning **AI based Automation solutions** to see it can be an alternative to coding in terms of saving time
-- 👯 I’m looking to collaborate on anything related to QA
-- 💬 Ask me about anything - lets have a chat!
-- 📫 How to reach me: 
+12 years in QA, 8+ writing test automation for mobile, web and APIs. These days I bring LLMs and agents into real QA workflows, and I test the AI itself.
 
-**LinkedIn:**
-
-https://www.linkedin.com/in/alona-t-922124114/
--->
+- 📫 [LinkedIn](https://www.linkedin.com/in/passionate-qa/)
